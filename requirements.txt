@@ -1,2 +1,2 @@
 colorama
-opendrop
+opendrop==0.10.3
